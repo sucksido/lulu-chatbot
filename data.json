@@ -1,0 +1,172 @@
+{
+  "intents": [
+    {
+      "tag": "funeral_insurance_claim",
+      "patterns": [
+        "Make a funeral or life insurance claim",
+        "How to make a claim for funeral insurance?",
+        "Claim process for life insurance",
+        "Filing a funeral insurance claim",
+        "Retrieve statements",
+        "Get a loan",
+        "Old Mutual Funeral & Life Insurance",
+        "SASSA Essential Funeral Plan",
+        "Submit a claim",
+        "Submit outstanding documents",
+        "Request Claim Status",
+        "Nominate Beneficiary"
+      ],
+      "responses": {
+        "default": "To make a funeral or life insurance claim, please submit the required documents and details. You can start the claim process by visiting our website or contacting our customer support."
+      }
+    },
+    {
+      "tag": "withdrawal",
+      "patterns": [
+        "Make a withdrawal",
+        "How to withdraw funds?",
+        "Withdrawal process",
+        "Withdrawing money from my account",
+        "Retiral Cashout"
+      ],
+      "responses": {
+        "default": "To make a withdrawal, you can log in to your account and initiate a withdrawal request. Alternatively, you can visit one of our branches and speak to our customer service representatives for assistance."
+      }
+    },
+    {
+      "tag": "view_products",
+      "patterns": [
+        "View your list of products",
+        "What products do I have?",
+        "List of my products",
+        "Products under my account",
+        "View portfolio information",
+        "View my portfolio information",
+        "View my policy data",
+        "Policy information",
+        "Policy details"
+      ],
+      "responses": {
+        "default": "To view the list of products under your account, you can log in to your online banking portal or mobile app. There you will find the details of all your registered products."
+      }
+    },
+    {
+      "tag": "employment_retirement_savings",
+      "patterns": [
+        "View employment retirement savings",
+        "Check retirement savings",
+        "Retirement fund balance",
+        "How much is in my retirement savings?",
+        "Perspectives on Financial Planning",
+        "Understanding Your Finances",
+        "Investment Planning",
+        "Retirement Planning",
+        "Estate Planning"
+      ],
+      "responses": {
+        "default": "To view your employment retirement savings, you can log in to your retirement fund account or contact our retirement savings department. They will provide you with the necessary information regarding your retirement fund balance."
+      }
+    },
+    {
+      "tag": "retrieve_documents",
+      "patterns": [
+        "Retrieve documents",
+        "How to get my documents?",
+        "Accessing important documents",
+        "Retrieve policy documents",
+        "Retrieve statements",
+        "Retrieve Documents",
+        "Download Retirement Fund Forms and guides",
+        "Access Member Educational Content",
+        "Request a Statement of Benefits",
+        "Request Annual Member Benefit Statement",
+        "Request New Entrant Certificate",
+        "Request Claim Payment Letter",
+        "Request Tax Certificate",
+        "Beneficiary Nomination form",
+        "Superfund Investment Change form",
+        "Old Mutual Multi-Managers Investment Election form",
+        "Superfund Retirement Guide",
+        "Superfund Withdrawal Guide",
+        "Access the Corporate Forms Library",
+        "Latest tax and SARAF document(s)",
+        "Latest Statement(s)",
+        "Annual Expense Review Letter",
+        "Retirement Fund Savings Document"
+
+      ],
+      "responses": {
+        "default": "To retrieve your documents, you can log in to your account and navigate to the document section. There you will find all the necessary documents related to your account, policies, and transactions."
+      }
+    },
+    {
+      "tag": "old_mutual_rewards",
+      "patterns": [
+        "Old Mutual Rewards",
+        "How does Old Mutual Rewards work?",
+        "Reward program details",
+        "Earning rewards with Old Mutual",
+        "Buy airtime & bundles",
+        "Buy vouchers",
+        "Airtime",
+        "Data Bundles",
+        "MTN",
+        "Vodacom",
+        "Telkom",
+        "CellC",
+        "Retail shopping",
+        "Health & beauty",
+        "Eat out",
+        "Fuel",
+        "Babies R Us",
+        "Baby City",
+        "Checkers",
+        "Outdoor Warehouse",
+        "Shoprite",
+        "Sportmans Warehouse",
+        "Toys R Us",
+        "Dis-Chem",
+        "NetFlorist",
+        "Hungry Lion",
+        "Kauai",
+        "KFC",
+        "Krispy Kreme",
+        "Nu",
+        "Primi Piatti",
+        "Steers",
+        "Wimpy",
+        "TotalEnergies"
+      ],
+      "responses": {
+        "default": "Old Mutual Rewards is our loyalty program where you can earn points for your interactions and transactions with us. These points can be redeemed for various rewards and benefits. To learn more about Old Mutual Rewards, please visit our website or contact our customer support."
+      }
+    },
+    {
+      "tag": "apply_for_products",
+      "patterns": [
+        "Apply for products",
+        "How to apply for a new product?",
+        "Product application process",
+        "Applying for insurance",
+        "Apply for personal loan",
+        "Funeral cover",
+        "Personal cover",
+        "Save and invest",
+        "Short-term insurance",
+        "Health insurance",
+        "Borrow",
+        "Life insurance",
+        "Disability insurance",
+        "Severe Illness insurance",
+        "Future insurance",
+        "Car insurance",
+        "Homeowners insurance",
+        "Household insurance",
+        "Gap Cover"
+      ],
+      "responses": {
+        "default": "To apply for our products, you can visit our website and explore the product pages. There you will find the application forms and instructions to apply for the desired products. You can also contact our customer support for assistance with the application process."
+      }
+    }
+  ]
+}
